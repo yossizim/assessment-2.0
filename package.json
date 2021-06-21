@@ -1,7 +1,6 @@
 {
   "name": "assessment-2.0",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon src/index.js"
@@ -13,5 +12,14 @@
     "casual": "^1.6.2",
     "mysql": "^2.18.1",
     "sequelize": "^6.6.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yossizim/assessment-2.0.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yossizim/assessment-2.0/issues"
+  },
+  "homepage": "https://github.com/yossizim/assessment-2.0#readme",
+  "description": ""
 }
