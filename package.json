@@ -1,0 +1,17 @@
+{
+  "name": "assessment-2.0",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "casual": "^1.6.2",
+    "mysql": "^2.18.1",
+    "sequelize": "^6.6.2"
+  }
+}
